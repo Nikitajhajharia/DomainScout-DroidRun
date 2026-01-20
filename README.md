@@ -60,3 +60,4 @@ The agent follows a strict **"Observe-Think-Act"** loop using Mobilerun Cloud:
 
 ## 📄 License
 MIT License
+![domainscout](https://github.com/user-attachments/assets/4613e2a0-13ee-4476-a19d-27f020ee4d17)
