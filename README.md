@@ -7,10 +7,6 @@
 
 Instead of manually opening a browser, typing a URL, searching, and reading results, DomainScout autonomously navigates the **GoDaddy mobile site** to verify availability and pricing in real-time.
 
-## 🎥 Demo Video
-### 
-*(The video `demo_video.mp4` is located in the `src/` folder of this repository. Click the link above to view it.)*
-
 ## 💡 The Problem (B2B Use Case)
 For branding agencies and startup founders, finding an available `.com` domain is a bottleneck.
 * **Manual Friction:** Requires constant app switching.
